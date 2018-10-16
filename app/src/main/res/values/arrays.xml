@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombresColores">
+        <item>Blanco</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Amarillo</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Marrón</item>
+        <item>Rosa</item>
+    </string-array>
+
+    <array name="colores">
+        <item>@color/colorBlanco</item>
+        <item>@color/colorAzul</item>
+        <item>@color/colorVerde</item>
+        <item>@color/colorAmarillo</item>
+        <item>@color/colorRojo</item>
+        <item>@color/colorNaranja</item>
+        <item>@color/colorMarron</item>
+        <item>@color/colorRosa</item>
+    </array>
+</resources>

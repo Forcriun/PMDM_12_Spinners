@@ -4,26 +4,4 @@
     <string name="promptTexto">Elige un color de texto.</string>
     <string name="colorFondo">Color Fondo:</string>
     <string name="promptFondo">Elige un color de fondo.</string>
-
-    <string-array name="coloresTexto">
-        <item>Blanco</item>
-        <item>Azul</item>
-        <item>Verde</item>
-        <item>Amarillo</item>
-        <item>Rojo</item>
-        <item>Naranja</item>
-        <item>Marrón</item>
-        <item>Rosa</item>
-    </string-array>
-
-    <string-array name="coloresFondo">
-        <item>Blanco</item>
-        <item>Azul</item>
-        <item>Verde</item>
-        <item>Amarillo</item>
-        <item>Rojo</item>
-        <item>Naranja</item>
-        <item>Marrón</item>
-        <item>Rosa</item>
-    </string-array>
 </resources>
