@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBlanco">#FFFFFF</color>
+    <color name="colorAzul">#0044FF</color>
+    <color name="colorVerde">#16FF1A</color>
+    <color name="colorAmarillo">#F8FF3F</color>
+    <color name="colorRojo">#FF0000</color>
+    <color name="colorNaranja">#FF9F4C</color>
+    <color name="colorMarron">#A35113</color>
+    <color name="colorRosa">#FF7FED</color>
+</resources>
